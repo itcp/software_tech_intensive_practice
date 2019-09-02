@@ -1,0 +1,2 @@
+# software_tech_intensive_practice
+软件精进练习组学习资源
