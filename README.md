@@ -12,8 +12,11 @@
 
 + 2.实用类：
 Linux操作系统；
+
 编程语言：Python、Golang、SQL、javascript  （这些都是练习为主，当然前期会先学入门）；
+
 数据存储类：Msyql、HBase、Redis、Mongodb、Elasticsearch、InfluxDB；
+
 开发及协作工具类：VS Code、Git、Markdown；
 
 
