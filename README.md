@@ -5,19 +5,19 @@
 
 学习理解这类的要在大块的时间中集中精力做，理解之后是转为练习熟练的任务，可以利用碎片时间或每天一小会时间加固（要自己写好练习题，为后期方便使用）；
 
-入围技能
-+ 1.理论类：操作系统、网络协议、数据结构与算法、应用数学（这些是理解为主，如果有练习题更好）
+## 入围技能
+### 1.理论类：（这些是理解为主，如果有练习题更好）
++ 操作系统
++ 网络协议
++ 数据结构与算法
++ 应用数学
 
 
-
-+ 2.实用类：
-Linux操作系统；
-
-编程语言：Python、Golang、SQL、javascript  （这些都是练习为主，当然前期会先学入门）；
-
-数据存储类：Msyql、HBase、Redis、Mongodb、Elasticsearch、InfluxDB；
-
-开发及协作工具类：VS Code、Git、Markdown；
+### 2.实用类：
++ Linux操作系统；
++ 编程语言：Python、Golang、SQL、javascript  （这些都是练习为主，当然前期会先学入门）；
++ 数据存储类：Msyql、HBase、Redis、Mongodb、Elasticsearch、InfluxDB；
++ 开发及协作工具类：VS Code、Git、Markdown；
 
 
 选择这些原因：
