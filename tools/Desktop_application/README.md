@@ -4,11 +4,15 @@
 
 Cross platform, free, open source
 
+
+
 ## WPS office
 
-介绍：基本办公软件，可以应用于办公软件最常用的文字编辑、表格、演示稿等功能
+介绍：基本办公软件，可以应用于办公软件最常用的文字编辑、表格、演示稿等功能，写技术文档建议选用下面的Typora编辑器
 
 download link : [https://www.wps.com](https://www.wps.com)
+
+
 
 ## Termius
 
@@ -16,17 +20,23 @@ download link : [https://www.wps.com](https://www.wps.com)
 
 download link：[https://termius.com/](https://termius.com/)
 
+
+
 ## VS Code
 
 介绍：编辑器
 
 download link : [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
+
+
 ## snipaste
 
 介绍：截屏工具
 
 download link : [https://www.snipaste.com/](https://www.snipaste.com/)
+
+
 
 ## Git
 
@@ -40,11 +50,13 @@ windows 系统请些下载:
 
 
 
-## gitnote
+## Typora
 
-介绍：基于git 的电子笔记
+介绍：方便写作及阅读的markdown编辑器
 
-download link : [https://gitnoteapp.com/](https://gitnoteapp.com/)
+download link : [https://www.typora.io/](https://www.typora.io/)
+
+
 
 
 ## KeePassX
@@ -52,6 +64,8 @@ download link : [https://gitnoteapp.com/](https://gitnoteapp.com/)
 介绍：密码管理
 
 download link : [https://www.keepassx.org/](https://www.keepassx.org/)
+
+
 
 
 ## chrome
@@ -64,11 +78,15 @@ download link:
 
 [2.chromium](https://www.chromium.org/)
 
+
+
 ## curl
 
 介绍：用URL传输网络数据的命令行工具和库
 
 download link : [https://curl.haxx.se/] (https://curl.haxx.se/)
+
+
 
 
 ## Wireshark
@@ -90,11 +108,15 @@ download link : [https://dbeaver.io/](https://dbeaver.io/download/)
 要选择 Community Edition 
 
 
+
+
 ## Another Redis Desktop Manager
 
 介绍：redis GUI管理工具
 
 download link : [https://appimage.github.io/Another_Redis_Desktop_Manager/](https://appimage.github.io/Another_Redis_Desktop_Manager/)
+
+
 
 
 ## Robomongo
@@ -106,6 +128,8 @@ download link : [https://robomongo.org/](https://robomongo.org/)
 选择Robo 3T 下载
 
 
+
+
 ## VLC media player
 
 介绍：多媒体播放器及框架
@@ -114,11 +138,15 @@ download link : [https://www.videolan.org/]
 (https://www.videolan.org/)
 
 
+
+
 ## OBS Studio
 
 介绍：用于视频录制和直播的免费和开源软件
 
 download link : [https://obsproject.com/](https://obsproject.com/)
+
+
 
 ## VirtualBox
 
