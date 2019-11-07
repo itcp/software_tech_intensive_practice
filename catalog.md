@@ -4,8 +4,23 @@
 
 ### [桌面应用软件](tools/Desktop_application)
 
-
 # 编程语言
+
+### [python](programmin_language/Python)
+
+
+
+### [Golang](programming_language/Golang)
+
+
+
+### [SQL](programmin_language)
+
+
+
+
+
+
 
 
 # system and service | 系统及服务
